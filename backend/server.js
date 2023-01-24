@@ -2,7 +2,6 @@ const express = require('express');
 const cors = require('cors');
 const mongoose = require('mongoose')
 mongoose.set('strictQuery', true);
-//swrryfjgh
 const app = express();
 require('dotenv').config();
 const port = process.env.PORT ||2020;
