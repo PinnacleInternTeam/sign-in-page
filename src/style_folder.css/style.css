@@ -1,0 +1,26 @@
+.navbar{
+    border: 2px double red;
+}
+.regi{
+    text-decoration: none;
+    /* margin: 20%;
+    padding: 12%; */
+    font-weight: bolder;
+}
+.login{
+    text-decoration: none;
+    /* margin: 12%;
+    padding: 12%; */
+    margin-left: 5%;
+    font-weight: bolder;
+}
+/* .regi:hover{
+    background-color: aquamarine;
+    border-radius: 25%;
+    font-size: 100%;
+}
+.login:hover{
+    background-color: aquamarine;
+    border-radius: 25%;
+    font-size: 100%;
+} */
